@@ -1,4 +1,4 @@
-# HW-Acceleration-for-Fedora-Linux
+# HW-Acceleration for Fedora-Linux
 This script enables VAAPI hardware acceleration for playing videos in Fedora Linux.
 
 Hardware Video Acceleration takes use graphics card for video encoding/decoding, thus offloading the CPU and saving power.
